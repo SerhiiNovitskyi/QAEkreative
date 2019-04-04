@@ -11,5 +11,9 @@ public class SecondLesson {
         System.out.println(group + name);
         System.out.println(age + name);
         System.out.println(name + online);
+        System.out.println(age + name);
+        System.out.println(name + online);
+        System.out.println(age + online);
+
     }
 }
