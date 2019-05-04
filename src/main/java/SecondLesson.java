@@ -13,6 +13,10 @@ public class SecondLesson {
         intPlusBoolean(age,online);
 
     }
+
+    private static void intPlusBoolean(int age, boolean online) {
+    }
+
     public static void doublePlusInt (double first,int second) {
         double result = first + second;
         System.out.println(result);
@@ -29,9 +33,9 @@ public class SecondLesson {
         String result = first + second;
         System.out.println(result);
     }
-    public static void intPlusBoolean (int first, boolean second) {
-        int result = first + second;
-        System.out.println(result);
+//    public static void intPlusBoolean (int first, boolean second) {
+//        int result = first + second;
+//        System.out.println(result);
 
 
 //    public static void showAge (int[] args) {
